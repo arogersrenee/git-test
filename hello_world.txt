@@ -1,2 +1,3 @@
 Hello, this is me practing git commits. 
 Here's another trial
+Alright now lets try without the terminal
